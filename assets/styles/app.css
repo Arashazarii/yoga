@@ -394,8 +394,9 @@ App code
   }
 
   > .betweentwoClass {
+    position: 2;
     width: 100%;
-    height: 100px;
+    height: 82px;
 
     background-image: linear-gradient(
       0deg,
@@ -416,10 +417,11 @@ App code
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
-    padding-top: 71px;
+    padding-top: 301px;
+    margin-top: -79px;
 
     .rows {
-      padding-top: 85px;
+      padding-top: 38px;
     }
     .row {
       width: 100%;
@@ -427,8 +429,7 @@ App code
       display: flex;
       justify-content: center;
       align-items: center;
-
-      gap: 390px;
+      gap: 385px;
     }
     .row-1 {
       gap: 243px;
