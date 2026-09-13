@@ -57,8 +57,8 @@ container
 
 .container {
   max-width: 1280px;
-  margin: 0 190px;
-  /* min-height: 100vh; */
+  margin: 0 auto;
+  min-height: 70vh;
 }
 
 /* 
@@ -546,6 +546,7 @@ App code
       display: flex;
       gap: 25px;
       margin-top: 80px;
+      justify-content: center;
     }
 
     .instructor {
