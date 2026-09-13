@@ -17,7 +17,6 @@ Avada Yoga is a modern and responsive website template for anyone who wants to e
 - ✅ **Fully Responsive** - Compatible with all screen sizes (mobile, tablet, desktop)
 - 🎨 **Modern Design** - Clean and attractive colors and typography
 - 🚀 **Fast & Lightweight** - No dependencies or external frameworks
-- 📱 **Mobile-First** - Priority design approach for mobile devices
 - 🎯 **Clean Code** - Well-organized and easy to understand
 
 ---
